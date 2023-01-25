@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    height: 3000px;
+}
+
+ #Box {
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+  position: relative;
+  top: 0px;
+  left: 25%;
+  right: 25%;
+}
+ #Box2 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 75px;
+  left: 75px;
+}
+#Box3
+{
+    background-color: aquamarine;
+    position: sticky;
+    top: 0px;
+
+}
+
